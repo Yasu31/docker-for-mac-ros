@@ -65,6 +65,7 @@ Segmentation fault
 VNCを使う方法( https://github.com/bpinaya/robond-docker )で一応RvizとGazeboは動いたが、遅すぎてもはやバーチャルマシンの方が速そうだった。
 
 # reference
+* OS-1 ROS Package Deployment with Docker https://www.wilselby.com/2019/05/os-1-ros-package-deployment-with-docker/
 * Docker for MacでROSの亀さんと戯れた https://qiita.com/ryo_21/items/4e0006adcb300173acda
 * Dockerを使用してPepperをROSで動かす手順（Mac・Ubuntu対応） https://qiita.com/ykoga/items/1ffe02c9cd4af42e4200
 * http://wiki.ros.org/docker/Tutorials/Hardware%20Acceleration
